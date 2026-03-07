@@ -1,8 +1,17 @@
 baseURL: https://example.org/
-languageCode: en-us
+languageCode: en-uk
 title: Harry Bevins
 
 params:
   author: Harry Bevins
+  homeInfoParams:
+    Title: ""
+    Content: ""
 
 theme: ["PaperMod"]
+
+menu:
+  main:
+    - name: About
+      url: /about/
+      weight: 10
