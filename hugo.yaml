@@ -1,17 +1,11 @@
-baseURL: https://example.org/
+baseURL: https://hbevins.co.uk/
 languageCode: en-uk
 title: Harry Bevins
 
 params:
   author: Harry Bevins
   homeInfoParams:
-    Title: ""
-    Content: ""
+    Title: "Hey!"
+    Content: "My names Harry and you've stumbled upon my blog. This is just a place for me to write. I'm a keen runner, history enthusiast, coder and scientist. I'm an astrophysics researcher at the University of Cambridge but I won't write too much about that here. If you want to read more about my work have a look at [harrybevins.co.uk](https://harrybevins.co.uk/)."
 
 theme: ["PaperMod"]
-
-menu:
-  main:
-    - name: About
-      url: /about/
-      weight: 10
